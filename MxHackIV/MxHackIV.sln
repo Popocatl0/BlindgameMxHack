@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1BD34A29-54AB-EC42-F1B3-5E89D47FC07D}") = "MxHackIV", "Assembly-CSharp.csproj", "{0563D0C2-EA8C-EC8A-40CD-9E3C56417F6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0563D0C2-EA8C-EC8A-40CD-9E3C56417F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0563D0C2-EA8C-EC8A-40CD-9E3C56417F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0563D0C2-EA8C-EC8A-40CD-9E3C56417F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0563D0C2-EA8C-EC8A-40CD-9E3C56417F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
