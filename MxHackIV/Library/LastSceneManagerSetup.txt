@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/BlindGame.unity
+  isLoaded: 1
+  isActive: 1

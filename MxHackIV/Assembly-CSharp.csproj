@@ -47,6 +47,7 @@
   <ItemGroup>
      <Compile Include="Assets\ControlCamara.cs" />
      <Compile Include="Assets\IABasic.cs" />
+     <Compile Include="Assets\Init.cs" />
      <Compile Include="Assets\Jugador.cs" />
      <Compile Include="Assets\VolSource.cs" />
      <Compile Include="Assets\cubo0.cs" />

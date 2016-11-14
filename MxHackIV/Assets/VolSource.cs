@@ -5,6 +5,8 @@ public class VolSource : MonoBehaviour {
 
 	public GameObject player;
 	AudioSource source;
+	public static int score = 0;
+
 
 	// Use this for initialization
 	void Start () {
@@ -24,6 +26,7 @@ public class VolSource : MonoBehaviour {
 		//Muere si es una bala
 		if(other.name == "Bullet(Clone)"){
 			//sonido de muerte
+			score ++;
 			Destroy (this.gameObject);
 			Destroy (other.gameObject);
 		}
